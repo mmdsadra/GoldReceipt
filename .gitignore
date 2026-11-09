@@ -1,0 +1,1 @@
+.venv/\n__pycache__/\n*.py[cod]\n build/\n dist/\n*.spec\n
